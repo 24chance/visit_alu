@@ -1,5 +1,5 @@
 # Visit ALU With Html and **css**
-This project contains Visit Rwanda Website done with HTML and CSS, this repository is for educational Purpose and people who are interested in frontend development.
+This project contains Visit ALU Website done with HTML and CSS, this repository is for educational Purpose and people who are interested in frontend development.
 
 ## Author
 **Chance KARAMBIZI**
